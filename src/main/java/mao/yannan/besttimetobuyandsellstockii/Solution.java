@@ -1,4 +1,4 @@
-package mao.yannan.array.besttimetobuyandsellstockii;
+package mao.yannan.besttimetobuyandsellstockii;
 
 class Solution {
 

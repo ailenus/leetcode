@@ -1,4 +1,4 @@
-package mao.yannan.array.majorityelement;
+package mao.yannan.majorityelement;
 
 class Solution {
 

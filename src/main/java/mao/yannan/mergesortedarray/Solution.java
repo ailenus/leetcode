@@ -1,4 +1,4 @@
-package mao.yannan.array.mergesortedarray;
+package mao.yannan.mergesortedarray;
 
 class Solution {
 

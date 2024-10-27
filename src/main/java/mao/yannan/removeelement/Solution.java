@@ -1,4 +1,4 @@
-package mao.yannan.array.removeelement;
+package mao.yannan.removeelement;
 
 import java.util.Arrays;
 

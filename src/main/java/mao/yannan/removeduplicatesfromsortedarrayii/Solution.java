@@ -1,4 +1,4 @@
-package mao.yannan.array.removeduplicatesfromsortedarrayii;
+package mao.yannan.removeduplicatesfromsortedarrayii;
 
 class Solution {
 
