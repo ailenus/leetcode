@@ -11,6 +11,7 @@
 | `lowestcommonancestorofbinarysearchtree` | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) |
 |            `majorityelement`             |                               [169. Majority Element](https://leetcode.com/problems/majority-element)                               |
 |            `mergesortedarray`            |                             [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)                              |
+|            `printbinarytree`             |                              [655. Print Binary Tree](https://leetcode.com/problems/print-binary-tree)                              |
 |          `mergetwosortedlists`           |                         [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)                          |
 |    `removeduplicatesfromsortedarray`     |            [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)             |
 |   `removeduplicatesfromsortedarrayii`    |         [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)          |
