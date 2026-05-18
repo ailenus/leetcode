@@ -13,6 +13,7 @@
 |        `_0121_best_time_to_buy_and_sell_stock`         |                [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)                |
 |       `_0122_best_time_to_buy_and_sell_stock_ii`       |             [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)             |
 |                `_0125_valid_palindrome`                |                               [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)                               |
+|                   `_0146_lru_cache`                    |                                      [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/)                                      |
 |                `_0169_majority_element`                |                               [169. Majority Element](https://leetcode.com/problems/majority-element/description/)                               |
 |              `_0206_reverse_linked_list`               |                            [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)                            |
 |               `_0226_invert_binary_tree`               |                             [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)                             |
