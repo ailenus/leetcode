@@ -19,6 +19,7 @@
 |               `_0226_invert_binary_tree`               |                             [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)                             |
 | `_0235_lowest_common_ancestor_of_a_binary_search_tree` | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) |
 |                 `_0242_valid_anagram`                  |                                  [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)                                  |
+|          `_0295_find_median_from_data_stream`          |                   [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/)                   |
 |               `_0655_print_binary_tree`                |                              [655. Print Binary Tree](https://leetcode.com/problems/print-binary-tree/description/)                              |
 |                 `_0704_binary_search`                  |                                  [704. Binary Search](https://leetcode.com/problems/binary-search/description/)                                  |
 |                   `_0733_flood_fill`                   |                                     [733. Flood Fill](https://leetcode.com/problems/flood-fill/description/)                                     |
