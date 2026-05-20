@@ -22,7 +22,7 @@ class Solution {
             buckets[frequency].add(entry.getKey());
         }
 
-        int[] answer = new int[k];
+        var answer = new int[k];
         var written = 0;
         for (var frequency = nums.length; frequency >= 1 && written < k; frequency--) {
             if (buckets[frequency] == null) {
