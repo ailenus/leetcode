@@ -7,6 +7,7 @@
 |             `_0021_merge_two_sorted_lists`             |                         [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)                          |
 |      `_0026_remove_duplicates_from_sorted_array`       |            [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)             |
 |                 `_0027_remove_element`                 |                                 [27. Remove Element](https://leetcode.com/problems/remove-element/description/)                                  |
+|              `_0042_trapping_rain_water`               |                            [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)                             |
 |                `_0056_merge_intervals`                 |                                [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)                                 |
 |                `_0057_insert_interval`                 |                                [57. Insert Interval](https://leetcode.com/problems/insert-interval/description/)                                 |
 |     `_0080_remove_duplicates_from_sorted_array_ii`     |         [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)          |
