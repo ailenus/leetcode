@@ -2,12 +2,13 @@ package mao.yannan._0056_merge_intervals;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Comparator;
 import java.util.List;
 
 class Solution {
 
     public int[][] merge(int[][] intervals) {
-        Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
+        Arrays.sort(intervals, Comparator.comparingInt(a -> a[0]));
         List<int[]> answer = new ArrayList<>();
         var prev = intervals[0];
         for (var i = 1; i < intervals.length; i++) {

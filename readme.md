@@ -3,6 +3,7 @@
 |                        Package                         |                                                                     Problem                                                                      |
 |:------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------:|
 |                    `_0001_two_sum`                     |                                         [1. Two Sum](https://leetcode.com/problems/two-sum/description/)                                         |
+| `_0003_longest_substring_without_repeating_characters` |  [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)  |
 |               `_0020_valid_parentheses`                |                              [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)                               |
 |             `_0021_merge_two_sorted_lists`             |                         [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)                          |
 |      `_0026_remove_duplicates_from_sorted_array`       |            [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)             |
@@ -36,3 +37,4 @@
 |                   `_0733_flood_fill`                   |                                     [733. Flood Fill](https://leetcode.com/problems/flood-fill/description/)                                     |
 |           `_0981_time_based_key_value_store`           |                     [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/description/)                     |
 |                 `_1146_snapshot_array`                 |                                [1146. Snapshot Array](https://leetcode.com/problems/snapshot-array/description/)                                 |
+|          `_2390_removing_stars_from_a_string`          |                  [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/)                   |
