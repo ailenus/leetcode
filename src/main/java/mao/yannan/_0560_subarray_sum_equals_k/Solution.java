@@ -6,16 +6,14 @@ import java.util.Map;
 class Solution {
 
     public int subarraySum(int[] nums, int k) {
-        Map<Integer, Integer> frequency = new HashMap<>();
-        frequency.put(0, 1);
-        var total = 0;
+        Map<Integer, Integer> seen = new HashMap<>();
+        seen.put(0, 1);
+        var prefix = 0;
         var count = 0;
-        for (var num : nums) {
-            total += num;
-            if (frequency.containsKey(total - k)) {
-                count += frequency.get(total - k);
-            }
-            frequency.merge(total, 1, Integer::sum);
+        for (var n : nums) {
+            prefix += n;
+            count += seen.getOrDefault(prefix - k, 0);
+            seen.merge(prefix, 1, Integer::sum);
         }
         return count;
     }
