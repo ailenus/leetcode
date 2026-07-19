@@ -8,6 +8,7 @@
 |      `_0026_remove_duplicates_from_sorted_array`       |            [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)             |
 |                 `_0027_remove_element`                 |                                 [27. Remove Element](https://leetcode.com/problems/remove-element/description/)                                  |
 |              `_0042_trapping_rain_water`               |                            [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)                             |
+|`_0049_group_anagrams`|                                                                       [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)                                                                       |
 |                `_0056_merge_intervals`                 |                                [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)                                 |
 |                `_0057_insert_interval`                 |                                [57. Insert Interval](https://leetcode.com/problems/insert-interval/description/)                                 |
 |     `_0080_remove_duplicates_from_sorted_array_ii`     |         [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)          |
@@ -26,6 +27,7 @@
 |                 `_0242_valid_anagram`                  |                                  [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)                                  |
 |          `_0295_find_median_from_data_stream`          |                   [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/)                   |
 |            `_0347_top_k_frequent_elements`             |                        [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)                        |
+|       `_0387_first_unique_character_in_a_string`       |             [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)             |
 |             `_0560_subarray_sum_equals_k`              |                          [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/)                          |
 |             `_0622_design_circular_queue`              |                          [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/description/)                          |
 |               `_0655_print_binary_tree`                |                              [655. Print Binary Tree](https://leetcode.com/problems/print-binary-tree/description/)                              |
