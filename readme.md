@@ -32,7 +32,8 @@
 |            `_0347_top_k_frequent_elements`             |                        [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)                        |
 |                  `_0383_ransom_note`                   |                                    [383. Ransom Note](https://leetcode.com/problems/ransom-note/description/)                                    |
 |       `_0387_first_unique_character_in_a_string`       |             [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)             |
-|               `_0200_number_of_islands`                |                             [443. String Compression](https://leetcode.com/problems/string-compression/description/)                             |
+|               `_0443_string_compression`               |                             [443. String Compression](https://leetcode.com/problems/string-compression/description/)                             |
+|                `_0525_contiguous_array`                |                               [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/description/)                               |
 |             `_0560_subarray_sum_equals_k`              |                          [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/)                          |
 |             `_0622_design_circular_queue`              |                          [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/description/)                          |
 |               `_0655_print_binary_tree`                |                              [655. Print Binary Tree](https://leetcode.com/problems/print-binary-tree/description/)                              |
