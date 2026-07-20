@@ -7,7 +7,7 @@ import java.util.Map;
 import java.util.Objects;
 import java.util.PriorityQueue;
 
-public class Solution {
+class Solution {
 
     public List<String> topKFrequent(String[] words, int k) {
         Map<String, Integer> freq = new HashMap<>();
